@@ -1,4 +1,9 @@
-.DS_Store
+.*.sw[a-p]
 .claude/
-*.html
+.DS_Store
 .imp/
+*.html
+*.sw[a-p]
+*.swo
+*.swp
+*~
