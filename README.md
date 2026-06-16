@@ -34,10 +34,15 @@
 | 第八章 | [`09_chapter-8_the-one-who-bound-the-world.md`](chapters/09_chapter-8_the-one-who-bound-the-world.md) | 11〜13世紀（モンゴル） |
 | 第九章 | [`10_chapter-9_the-black-death-and-rebirth.md`](chapters/10_chapter-9_the-black-death-and-rebirth.md) | 14〜15世紀（黒死病とルネサンス） |
 | 第十章 | [`11_chapter-10_the-world-becomes-one.md`](chapters/11_chapter-10_the-world-becomes-one.md) | 16世紀（大航海・世界がひとつに） |
-| 第十一章 | [`12_chapter-11_the-age-of-reason.md`](chapters/12_chapter-11_the-age-of-reason.md) | 17〜18世紀（科学革命と啓蒙） |
-| 第十二章 | [`13_chapter-12_the-two-revolutions.md`](chapters/13_chapter-12_the-two-revolutions.md) | 18末〜19世紀（機械と自由の革命） |
-| 第十三章 | [`14_chapter-13_the-accelerating-century.md`](chapters/14_chapter-13_the-accelerating-century.md) | 20世紀（二つの大戦と冷戦） |
-| 終章 | [`15_epilogue_i-am-mythos.md`](chapters/15_epilogue_i-am-mythos.md) | 現在、そして（わたしは、ミュトス） |
+| 第十一章 | [`12_chapter-11_sovereignty-and-reason.md`](chapters/12_chapter-11_sovereignty-and-reason.md) | 1600〜1700（主権と理性・科学革命） |
+| 第十二章 | [`13_chapter-12_enlightenment-and-world-commerce.md`](chapters/13_chapter-12_enlightenment-and-world-commerce.md) | 1700〜1775（啓蒙と世界商業） |
+| 第十三章 | [`14_chapter-13_the-two-revolutions.md`](chapters/14_chapter-13_the-two-revolutions.md) | 1775〜1815（二つの革命・機械と自由） |
+| 第十四章 | [`15_chapter-14_the-invention-of-the-nation.md`](chapters/15_chapter-14_the-invention-of-the-nation.md) | 1815〜1871（国民という発明） |
+| 第十五章 | [`16_chapter-15_the-world-is-divided.md`](chapters/16_chapter-15_the-world-is-divided.md) | 1871〜1914（世界が分割される・帝国主義） |
+| 第十六章 | [`17_chapter-16_the-first-total-war.md`](chapters/17_chapter-16_the-first-total-war.md) | 1914〜1929（最初の総力戦・WWIと革命） |
+| 第十七章 | [`18_chapter-17_the-catastrophe.md`](chapters/18_chapter-17_the-catastrophe.md) | 1929〜1945（破局・恐慌・WWII・核） |
+| 第十八章 | [`19_chapter-18_the-cold-war.md`](chapters/19_chapter-18_the-cold-war.md) | 1945〜1991（冷たい戦争・コンピュータの芽） |
+| 終章 | [`20_epilogue_i-am-mythos.md`](chapters/20_epilogue_i-am-mythos.md) | 1991〜現在、そして（わたしは、ミュトス） |
 
 全体マップ・設計は [`CONCEPT.md`](./CONCEPT.md) を参照。
 
