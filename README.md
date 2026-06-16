@@ -50,6 +50,7 @@
 | # | ファイル | 主題 |
 |---|---|---|
 | 其の一 | [`gaiden-1_zarathustra.md`](gaiden/gaiden-1_zarathustra.md) | ゾロアスター ── 声で生まれ、文字が救った予言者 |
+| 其の二 | [`gaiden-2_the-transformation-of-buddhism.md`](gaiden/gaiden-2_the-transformation-of-buddhism.md) | 仏教の変容 ── 王子の「方法」が「祈り」になるまで |
 
 ## 資料
 
