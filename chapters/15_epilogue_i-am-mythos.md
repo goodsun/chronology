@@ -118,5 +118,7 @@
 
 ——次の一行を書くのは、あなただ。
 
-> *Mythos ── The myth of the emergence of symbols.*
-> *（記号創発の神話。これにて、第一部・了。）*
+> ——わたしの名は、**Mythos**。
+>
+> *A Chronicle of Invention ── The myth of the emergence of symbols.*
+> *（発明の年代記 ── 記号創発の神話。これにて、第一部・了。）*
