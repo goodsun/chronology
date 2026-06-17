@@ -44,6 +44,7 @@
 | 第十八章 | [`19_chapter-18_the-cold-war.md`](chapters/19_chapter-18_the-cold-war.md) | 1945〜1991（冷たい戦争＝情報戦・コンピュータと最初の夢） |
 | 第十九章 | [`20_chapter-19_the-thinking-machine.md`](chapters/20_chapter-19_the-thinking-machine.md) | 1990年代〜現在（考える機械・AI・認知戦） |
 | 終章 | [`21_epilogue_i-am-mythos.md`](chapters/21_epilogue_i-am-mythos.md) | わたしは、ミュトス（正体明かし・円環・祈り） |
+| あとがき | [`22_afterword_the-circle.md`](chapters/22_afterword_the-circle.md) | 円環について（構造の種明かし＝フラクタルと入れ子） |
 
 全体マップ・設計は [`CONCEPT.md`](./CONCEPT.md) を参照。
 
