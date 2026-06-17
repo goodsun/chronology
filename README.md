@@ -56,15 +56,15 @@
 
 | # | ファイル | 主題 |
 |---|---|---|
-| 其の一 | [`gaiden-1_comparative-mythology.md`](gaiden/gaiden-1_comparative-mythology.md) | 比較神話 ── なぜ、遠い民は、似た物語を紡ぐのか |
-| 其の二 | [`gaiden-2_gilgamesh.md`](gaiden/gaiden-2_gilgamesh.md) | ギルガメシュ ── 最古の物語は、すでに「記号は死に勝つ」と知っていた |
-| 其の三 | [`gaiden-3_zarathustra.md`](gaiden/gaiden-3_zarathustra.md) | ゾロアスター ── 声で生まれ、文字が救った予言者 |
-| 其の四 | [`gaiden-4_the-rig-veda.md`](gaiden/gaiden-4_the-rig-veda.md) | リグ・ヴェーダ ── あえて書かなかった聖典と、身分の起源 |
-| 其の五 | [`gaiden-5_the-old-testament.md`](gaiden/gaiden-5_the-old-testament.md) | 旧約聖書 ── 書物を、祖国にした民（ユダヤ教） |
-| 其の六 | [`gaiden-6_the-new-testament.md`](gaiden/gaiden-6_the-new-testament.md) | 新約聖書 ── 手紙が、信仰を運ぶ（キリスト教） |
-| 其の七 | [`gaiden-7_the-quran.md`](gaiden/gaiden-7_the-quran.md) | クルアーン ── 訳されることを拒んだ、声の聖典（イスラーム） |
-| 其の八 | [`gaiden-8_the-transformation-of-buddhism.md`](gaiden/gaiden-8_the-transformation-of-buddhism.md) | 仏教の変容 ── 王子の「方法」が、海を渡って「祈り」になるまで |
-| 其の九 | [`gaiden-9_the-kojiki.md`](gaiden/gaiden-9_the-kojiki.md) | 古事記 ── 国家が編んだ神話と、借りた文字で書く格闘 |
+| 其の一 | [`gaiden-01_comparative-mythology.md`](gaiden/gaiden-01_comparative-mythology.md) | 比較神話 ── なぜ、遠い民は、似た物語を紡ぐのか |
+| 其の二 | [`gaiden-02_gilgamesh.md`](gaiden/gaiden-02_gilgamesh.md) | ギルガメシュ ── 最古の物語は、すでに「記号は死に勝つ」と知っていた |
+| 其の三 | [`gaiden-03_zarathustra.md`](gaiden/gaiden-03_zarathustra.md) | ゾロアスター ── 声で生まれ、文字が救った予言者 |
+| 其の四 | [`gaiden-04_the-rig-veda.md`](gaiden/gaiden-04_the-rig-veda.md) | リグ・ヴェーダ ── あえて書かなかった聖典と、身分の起源 |
+| 其の五 | [`gaiden-05_the-old-testament.md`](gaiden/gaiden-05_the-old-testament.md) | 旧約聖書 ── 書物を、祖国にした民（ユダヤ教） |
+| 其の六 | [`gaiden-06_the-new-testament.md`](gaiden/gaiden-06_the-new-testament.md) | 新約聖書 ── 手紙が、信仰を運ぶ（キリスト教） |
+| 其の七 | [`gaiden-07_the-quran.md`](gaiden/gaiden-07_the-quran.md) | クルアーン ── 訳されることを拒んだ、声の聖典（イスラーム） |
+| 其の八 | [`gaiden-08_the-transformation-of-buddhism.md`](gaiden/gaiden-08_the-transformation-of-buddhism.md) | 仏教の変容 ── 王子の「方法」が、海を渡って「祈り」になるまで |
+| 其の九 | [`gaiden-09_the-kojiki.md`](gaiden/gaiden-09_the-kojiki.md) | 古事記 ── 国家が編んだ神話と、借りた文字で書く格闘 |
 | 其の十 | [`gaiden-10_the-edda.md`](gaiden/gaiden-10_the-edda.md) | エッダ ── 滅びゆく神々を、改宗者が書き留めた |
 | 其の十一 | [`gaiden-11_enheduanna.md`](gaiden/gaiden-11_enheduanna.md) | エンヘドゥアンナ ── 記号に「わたし」が宿った日 |
 | 其の十二 | [`gaiden-12_hammurabi.md`](gaiden/gaiden-12_hammurabi.md) | ハンムラビ法典 ── 記号が、初めて「正義」を石に刻んだ |

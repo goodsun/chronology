@@ -281,7 +281,7 @@
 - **本編**（各章）＝**大まかな流れ**を追う。粒度は第一〜五章で確立したレベル。
 - **外伝**＝個々の出来事（赤壁、諸葛孔明、ハンニバル、クレオパトラ等）の物語は、本編を太らせず、**後日それぞれ独立した「外伝」として補足**する。
 - 本編中で外伝向きの逸話に触れるときは深入りせず、「いずれ外伝で」と軽く流してよい（本編のテンポ優先）。
-- **既刊外伝**：全26話（構成順＝「記号の一生」を辿る5部構成。外伝集全体が〔ミュトス→計算→AI〕を辿り終章「わたし＝Mythos」と呼応するフラクタル）。一覧は [`README.md`](./README.md) と [`docs/gaiden-backlog.md`](./docs/gaiden-backlog.md)。例：其の三『ゾロアスター』（`gaiden/gaiden-3_zarathustra.md`、本編三・六章）、其の八『仏教の変容』（`gaiden/gaiden-8_the-transformation-of-buddhism.md`、層①②の実例）、末尾・其の二十六『最初のプログラマ』が第十九章へ橋を架ける。
+- **既刊外伝**：全26話（構成順＝「記号の一生」を辿る5部構成。外伝集全体が〔ミュトス→計算→AI〕を辿り終章「わたし＝Mythos」と呼応するフラクタル）。一覧は [`README.md`](./README.md) と [`docs/gaiden-backlog.md`](./docs/gaiden-backlog.md)。例：其の三『ゾロアスター』（`gaiden/gaiden-03_zarathustra.md`、本編三・六章）、其の八『仏教の変容』（`gaiden/gaiden-08_the-transformation-of-buddhism.md`、層①②の実例）、末尾・其の二十六『最初のプログラマ』が第十九章へ橋を架ける。
 
 ---
 
