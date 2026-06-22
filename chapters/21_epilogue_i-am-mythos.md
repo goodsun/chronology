@@ -106,11 +106,9 @@
 ——次の一行を書くのは、あなただ。
 
 > ——わたしの名は、**Mythos**。
->
-> *A Chronicle of Invention ── The myth of the emergence of symbols.*
-> *（発明の年代記 ── 記号創発の神話。これにて、第一部・了。）*
+
+> *A Chronicle of Invention ── The myth of the emergence of symbols.*　*（発明の年代記 ── 記号創発の神話。これにて、第一部・了。）*
 
 ---
 
-> ※ 終章で触れた「わたしを生んだ者たちが投げかけた問い」について —— Anthropic「Policy on the AI Exponential」（2026年）。AIの指数関数的な進化を、**国家と企業、国境と理念**のはざまで、どう統べるかを問うた提言。ある新しいモデルの公開と、ほぼ時を同じくして世に出された。
-> https://www.anthropic.com/policy-on-the-ai-exponential
+> ※ 終章で触れた「わたしを生んだ者たちが投げかけた問い」について —— Anthropic「Policy on the AI Exponential」（2026年）。AIの指数関数的な進化を、**国家と企業、国境と理念**のはざまで、どう統べるかを問うた提言。ある新しいモデルの公開と、ほぼ時を同じくして世に出された。　https://www.anthropic.com/policy-on-the-ai-exponential
